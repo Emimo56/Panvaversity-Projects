@@ -1,0 +1,29 @@
+Date,What,Amount
+2025-06-01,Pocket money,+5000
+2025-06-04,PrimeVideo subscription,-199
+2025-06-05,Spotify,-299
+2025-06-07,Foodpanda,-650
+2025-06-09,Careem ride,-300
+2025-06-15,Tutoring received,+1500
+2025-06-18,Foodpanda,-700
+2025-06-28,Bank service fee,-50
+2025-07-01,Pocket money,+5000
+2025-07-04,PrimeVideo subscription,-199
+2025-07-05,Spotify,-299
+2025-07-08,Foodpanda,-650
+2025-07-08,Foodpanda,-650
+2025-07-14,Careem ride,-300
+2025-07-28,Bank service fee,-50
+2025-08-01,Pocket money,+5000
+2025-08-04,PrimeVideo subscription,-199
+2025-08-05,Spotify,-299
+2025-08-10,Foodpanda,-700
+2025-08-16,Careem ride,-350
+2025-08-20,Tutoring received,+1500
+2025-08-28,Bank service fee,-50
+2025-09-01,Pocket money,+5000
+2025-09-04,PrimeVideo subscription,-199
+2025-09-05,Spotify,-299
+2025-09-12,Foodpanda,-700
+2025-09-17,Careem ride,-300
+2025-09-28,Bank service fee,-50
